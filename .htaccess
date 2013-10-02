@@ -1,0 +1,10 @@
+#RewriteEngine On
+#RewriteCond %{HTTP_HOST} ^canaglobecompliance.com
+#RewriteRule (.*) http://www.canaglobecompliance.com/$1 [R=301,L]
+
+redirect	301	/webinars.html		/education.html
+redirect	301	/services-1.html	/services-corporate-secretary.html
+redirect	301	/services-2.html	/services-sedar-filings.html
+redirect	301	/services-3.html	/services-edgar-filings.html
+redirect	301	/services-4.html	/services-insider-filing.html
+redirect	301	/services-5.html	/services-whistleblowing.html

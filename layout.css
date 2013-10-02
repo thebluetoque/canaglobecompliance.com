@@ -1,0 +1,23 @@
+.site-center {margin:0 auto; width:980px; text-align:left;}
+
+
+.col-1, .col-2, .col-3, .row-box-1, .row-box-2{ float:left;}
+
+
+.content .col-1{width:646px;}
+.content .col-2{width:260px; margin-left:11px;}
+
+/*================== index-3.html ==================*/
+#page4 .content .col-1 .row-box-1{ width:270px;}
+#page4 .content .col-1 .row-box-2{ width:270px; margin-left:56px;}
+/*====================================*/
+
+/*================== index-6.html ==================*/
+#page7 .content .col-1 .row-box-1{ width:305px;}
+#page7 .content .col-1 .row-box-2{ width:295px;}
+/*====================================*/
+
+
+/*================== index-7.html ==================*/
+#page8 .content .col-1{ width:916px;}
+/*====================================*/

@@ -1,0 +1,53 @@
+BEGIN:VCALENDAR
+PRODID:-//Microsoft Corporation//Outlook 12.0 MIMEDIR//EN
+VERSION:2.0
+METHOD:PUBLISH
+X-CALSTART:20110502T170000Z
+X-CALEND:20110502T170000Z
+X-CLIPSTART:20110502T060000Z
+X-CLIPEND:20110503T060000Z
+X-WR-RELCALID:{00000018-2C7F-1CD7-58FD-B329FB39210C}
+X-WR-CALNAME:Webinar Reminder
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20110323T160857Z
+DESCRIPTION:Registration for the Introduction To Public Company Life and Ti
+	mely Disclosure education opens today. Visit http://www.canaglobecompliance
+	.com/education.html\nfor more information and to register.\n
+DTEND:20110502T170000Z
+DTSTAMP:20110323T171101Z
+DTSTART:20110502T170000Z
+LAST-MODIFIED:20110323T171028Z
+PRIORITY:5
+SEQUENCE:0
+SUMMARY;LANGUAGE=en-ca:CanaGlobe Compliance Solutions Webinar Registration
+TRANSP:OPAQUE
+UID:040000008200E00074C5B7101A82E00800000000E0329E4949E9CB01000000000000000
+	01000000035B68C117BD2F04EBEF75F419C1F057F
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2//E
+	N">\n<HTML>\n<HEAD>\n<META NAME="Generator" CONTENT="MS Exchange Server ve
+	rsion 08.00.0681.000">\n<TITLE></TITLE>\n</HEAD>\n<BODY>\n<!-- Converted f
+	rom text/rtf format -->\n\n<P DIR=LTR><SPAN LANG="en-ca"><FONT FACE="Calib
+	ri">Registration for the</FONT></SPAN><SPAN LANG="en-ca"><I> <FONT FACE="C
+	alibri">Introduction To Public Company Life</FONT></I></SPAN><SPAN LANG="e
+	n-ca"><FONT FACE="Calibri"> and</FONT></SPAN><SPAN LANG="en-ca"><I> <FONT 
+	FACE="Calibri">Timely Disclosure</FONT></I></SPAN><SPAN LANG="en-ca"><FONT
+	 FACE="Calibri"> education opens today. Visit</FONT></SPAN><SPAN LANG="en-c
+	a"> </SPAN><A HREF="http://www.canaglobecompliance.com/education.html"><SPA
+	N LANG="en-ca"><U><FONT COLOR="#0000FF" FACE="Calibri">http://www.canaglob
+	ecompliance.com/education.html</FONT></U></SPAN><SPAN LANG="en-ca"></SPAN><
+	/A><SPAN LANG="en-ca"></SPAN></P>\n\n<P DIR=LTR><SPAN LANG="en-ca"><FONT F
+	ACE="Calibri">for more information and to register.</FONT></SPAN><SPAN LAN
+	G="en-ca"></SPAN></P>\n\n</BODY>\n</HTML>
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MS-OLK-ALLOWEXTERNCHECK:TRUE
+X-MS-OLK-CONFTYPE:0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+END:VCALENDAR
